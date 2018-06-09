@@ -17,6 +17,7 @@ position.extend(repeat(80, 40))
 position.extend(range(80,0,-2))
 position.extend(repeat(0, 20))
 
+
 # calc velocity
 # v = dx / dt -> (x[i] - x[i-1])/t2-t1 -> x[i] - x[i-1
 velocity = []
